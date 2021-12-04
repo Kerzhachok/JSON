@@ -1,0 +1,13 @@
+{
+	"name": "Olga Kirzhaeva"
+	"age": 34
+	"pets": [
+	{
+		"cats": 4
+	}
+	{
+		"dogs": 1
+	}
+	]
+	"future salary": 1000$
+}
