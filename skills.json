@@ -4,6 +4,6 @@
 		{
 			"QA Theory": "SDLC, STLC, Test-case, Bug-report"
 		}
-			"Postman", "JSON", "XML", "XCode", "VPN", "Android Studio"
+			"Postman", "JSON", "XML", "XCode", "VPN", "Android Studio", "Jmeter"
 	]
 }
